@@ -1,0 +1,9 @@
+# Requer `pdftoppm` (Poppler) no PATH para o `pdf2image`.
+# Requer o binário do sistema `tesseract` / `tesseract-ocr` disponível no PATH
+# ou informado via `--tesseract-cmd` / `TESSERACT_CMD`.
+# Versão do binário usada neste repositório: Tesseract OCR 5.3.4.
+pytesseract==0.3.13
+pdf2image>=1.17.0
+Pillow>=10.4.0
+opencv-python-headless>=4.10.0.84
+numpy>=2.1.0

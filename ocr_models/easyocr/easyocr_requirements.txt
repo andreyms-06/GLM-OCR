@@ -1,0 +1,6 @@
+# Requer `pdftoppm` (Poppler) no PATH para o `pdf2image`.
+easyocr==1.7.2
+pdf2image>=1.17.0
+Pillow>=10.4.0
+opencv-python-headless>=4.10.0.84
+numpy>=2.1.0

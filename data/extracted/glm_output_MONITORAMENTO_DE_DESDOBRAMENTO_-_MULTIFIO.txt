@@ -1,0 +1,252 @@
+{
+"monitoramento de desdobramento - multifio": {
+"magban": {
+"codigo": "FM-OPE-004",
+"monitoramento": "DESDOBRAMENTO - MULTIFIO",
+"serrada": "AUTUAL",
+"data/hora inicial": "16:48",
+"data/hora final": "10:05",
+"total": "4"
+},
+"hormetro": {
+"kwh": "1406",
+"final": "11086",
+"initial": "31083",
+"final": "39426",
+"trabalho": "357.6",
+"manima": "SUP",
+"trabalho": "INFRAÇOES DO FIO",
+"informações": "PARAIMOTIVO DE PARADA COM MOTIVO"
+},
+"nome do material": {
+"C)": "331",
+"A)": "192",
+"L)": "156",
+"Quiet Flos": "54",
+"Chip 1.2": "53",
+"Chip 02": "53",
+"Chip 03": "53",
+"intra": "0.95",
+"paraimotiva": "06"
+},
+"203": {
+"C)": "331",
+"A)": "192",
+"L)": "156",
+"Quiet Flos": "54",
+"Chip 1.2": "53",
+"Chip 02": "53",
+"Chip 03": "53",
+"intra": "0.95",
+"paraimotiva": "06"
+},
+"0E6G": {
+"C)": "331",
+"A)": "192",
+"L)": "156",
+"Quiet Flos": "54",
+"Chip 1.2": "53",
+"Chip 02": "53",
+"Chip 03": "53",
+"intra": "0.95",
+"paraimotiva": "06"
+},
+"OPERADOR D1": {
+"ALTURA": "2109",
+"final": "1943",
+"produto": "0101.25",
+"data": "18:40",
+"hora inicial": "08:00",
+"hora final": "08:00"
+},
+"horidade": {
+"18:23": "",
+"10": "",
+"14:15": "",
+"28:00": ""
+},
+"cala (cm/h)": "",
+"amaregem (Flo)": "",
+"velocidade (m/s)": ""
+}
+}
+
+{
+"monitoramento": {
+"monitoramento_da_serrada": {
+"operaador_03": {
+"inicial": "6.50",
+"final": "",
+"produto": "",
+"data": "",
+"hora_inicial": "01",
+"hora_final": "02",
+"motivo": "APONTAMENTO DE PARADA COM MOTIVO"
+},
+"condições_observadas": {
+"horario": "8:00",
+"minute": "9:4",
+"hour": "10:20",
+"minute": "",
+"hora": "",
+"produto": "",
+"data": "",
+"hora_inicial": "01",
+"hora_final": "02",
+"motivo": "APONTAMENTO DE PARADA COM MOTIVO"
+},
+"observacoes_observadas": {
+"horario": "15",
+"minute": "15",
+"hora": "15",
+"produto": "",
+"data": "",
+"hora_inicial": "01",
+"hora_final": "02",
+"motivo": "APONTAMENTO DE PARADA COM MOTIVO"
+},
+"observacoes_observadas": {
+"horario": "189",
+"minute": "181",
+"hora": "196",
+"produto": "",
+"data": "",
+"hora_inicial": "01",
+"hora_final": "02",
+"motivo": "APONTAMENTO DE PARADA COM MOTIVO"
+},
+"observacoes_observadas": {
+"horario": "320",
+"minute": "320",
+"hora": "320",
+"produto": "",
+"data": "",
+"hora_inicial": "01",
+"hora_final": "02",
+"motivo": "APONTAMENTO DE PARADA COM MOTIVO"
+}
+}
+},
+"identificacao_do_blooco": {
+"numero": "",
+"material": "",
+"trica": "",
+"flasura": "",
+"empino": "",
+"ondulacao": "",
+"batida_de_flo": "",
+"entrada_da_flo": "",
+"var_espessura": ""
+},
+"avaliacao_da_serrada": {
+"numero": "",
+"material": "",
+"trica": "",
+"flasura": "",
+"empino": "",
+"ondulacao": "",
+"batida_de_flo": "",
+"entrada_da_flo": "",
+"var_espessura": ""
+},
+"cala_media": {
+"quat_a qualidade da serrada": {
+"boa": "Regular",
+"ruim": "Legenda do Grau de Risco"
+},
+"sejam_qual o grau de risco?": "Ver leitura",
+"assinatura": "Approvedo"
+}
+}
+
+{
+"cabecalho": {
+"título": "FICHA DE OCORRÊNCIA – DESDOBRAMENTO",
+"datas": "12/12/2019",
+"nomes": [
+"FM-OPE-022"
+],
+"tabelas": [
+{
+"dados": [
+{
+"Dia": "07",
+"Material": "Alpimura",
+"Número Serrada": "013",
+"Número Bloco": "32756",
+"Nº chapa": "07a13",
+"Defeito": "phmicidade",
+"Não-Conformidade I Ocorrência": "",
+"M2 (perda)": "D",
+"Disp. (Leg)": "",
+"Reinsp": "",
+"Executante": ""
+}
+]
+}
+]
+},
+"observacoes": [
+{
+"título": "LEGENDA DA DISPOSIÇÃO (disp.)",
+"datas": "",
+"nomes": [
+"a) Rejetado para o limi a que se propõe, sendo então reclassificado.",
+"b) Retrabahado ate que atenda as especificações."
+]
+}
+]
+}
+
+{
+"magban": {
+"ROMANEIO": "DE CHAPAS - SERRARIA",
+"FINALIDADE": "MI",
+"ME": "PROCESSO: MATRIZ X FILIAL",
+"MATERIAL": {
+"Nº BLOCO": {
+"Espessura (cm)": "2.0 cm",
+"QUANT. CHAPAS (Bundles)": "8",
+"Nº DAS CHAPAS": "8",
+"Média Bruta": "3.30",
+"Nº da Chapa Afeta": "1.90",
+"COMP": "1.90",
+"ALT": "11"
+},
+"NAZCA": {
+"2.0 cm": "8",
+"3.0 cm": "16",
+"9 a 16": "16",
+"17 a 24": "24",
+"2.0 cm": "8",
+"3.0 cm": "32"
+},
+"AP1 NO5": {
+"2.0 cm": "6",
+"3.0 cm": "146",
+"47 a 53": "53",
+"146": "46",
+"3.0 cm": "1.90"
+},
+"AP2 PI NO5": {
+"2.0 cm": "6",
+"3.0 cm": "146",
+"47 a 53": "53",
+"146": "46",
+"3.0 cm": "1.90"
+}
+},
+"OBSERVACÕES": {
+"Treceas Fareados, Vens e Judas": {
+"AP1": "RE",
+"AP2": "RE",
+"AP3": "RE",
+"AP4": "RE",
+"AP5": "RE",
+"AP6": "RE",
+"AP7": "SEL",
+"AP8": "CLA"
+}
+}
+}
+}

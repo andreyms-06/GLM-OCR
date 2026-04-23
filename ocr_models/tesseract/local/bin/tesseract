@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+LIB_DIR="$ROOT_DIR/usr/lib/x86_64-linux-gnu"
+BIN_PATH="$ROOT_DIR/usr/bin/tesseract"
+TESSDATA_DIR="$ROOT_DIR/usr/share/tesseract-ocr/5/tessdata"
+
+export LD_LIBRARY_PATH="$LIB_DIR${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
+export TESSDATA_PREFIX="$TESSDATA_DIR"
+
+exec "$BIN_PATH" "$@"

@@ -1,0 +1,7 @@
+# Requer `pdftoppm` (Poppler) no PATH para o `pdf2image`.
+# Requer o Ollama em execucao e o modelo OCR ja baixado.
+ollama
+pdf2image>=1.17.0
+Pillow>=10.4.0
+opencv-python>=4.10.0.84
+numpy>=2.1.0

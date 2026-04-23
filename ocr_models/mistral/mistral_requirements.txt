@@ -1,0 +1,7 @@
+# Requer `pdftoppm` (Poppler) no PATH para o `pdf2image`.
+# Requer `MISTRAL_API_KEY` (ou `API_KEY`) configurada no ambiente/.env.
+pdf2image>=1.17.0
+Pillow>=10.4.0
+opencv-python-headless>=4.10.0.84
+numpy>=2.1.0
+python-dotenv>=1.2.2

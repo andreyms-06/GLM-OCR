@@ -1,0 +1,15 @@
+# Dependências do PaddleOCR (sem o paddlepaddle em si).
+# Instale o paddlepaddle ANTES deste arquivo — veja instruções no README.
+#
+# CPU:
+#   pip install paddlepaddle==3.3.0 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
+#
+# GPU (CUDA 13.0):
+#   pip install paddlepaddle-gpu==3.3.0 \
+#       --extra-index-url https://www.paddlepaddle.org.cn/packages/stable/cu130/
+
+paddleocr[all]==3.4.0
+pdf2image>=1.17.0
+Pillow>=10.4.0
+opencv-python-headless>=4.10.0.84
+numpy>=2.1.0

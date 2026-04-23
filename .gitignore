@@ -1,0 +1,8 @@
+ocr_models/GLM/glmvenv
+ocr_models/easyocr/easyocrvenv
+ocr_models/tesseract/tesseractvenv
+ocr_models/paddleocr/paddleocrvenv
+ocr_models/mistral/mistralvenv
+plot/venv
+.env
+__pycache__/
